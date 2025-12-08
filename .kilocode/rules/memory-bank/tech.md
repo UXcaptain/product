@@ -1,0 +1,1 @@
+No technical implementation here. See uxcaptain-frontend/backend repos for architecture/tech stack.
