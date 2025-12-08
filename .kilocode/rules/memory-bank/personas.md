@@ -2,8 +2,6 @@
 
 # User Personas
 
-UXcaptain serves B2B companies conducting video and audio user research, with personas tailored to Spain's digital-savvy market emphasizing personal relationships, hybrid digital-physical strategies, and sectors like tech, telecom, e-commerce, and tourism.
-
 *Based on research from 64 UX professionals across startups, scale-ups, corporations, and agencies in Spain (October-November 2025)*
 
 ## Persona 1: UX Researcher in Tech Agency
