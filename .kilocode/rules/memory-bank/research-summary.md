@@ -83,6 +83,10 @@ Analysis of 64 survey responses from UX professionals about qualitative feedback
 5. **Interview Capabilities** (10+ requests)
    - Ability to conduct moderated interviews
    - Follow-up conversations with users after analysis
+6. **Timestamped Note-Taking** (8+ requests)
+   - Ability to save notes with time markers in recordings
+   - Better organization of insights
+   - **Supports enhanced video analysis workflow**
    - **Supports planned moderated sessions feature**
 
 ### 4. Critical Market Validation
