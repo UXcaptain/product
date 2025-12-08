@@ -1,3 +1,6 @@
+*See also: [brief.md](brief.md) for project scope and timeline, [research-summary.md](research-summary.md) for market validation*
+
+
 # Product
 
 ## Why This Project Exists

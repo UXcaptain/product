@@ -1,3 +1,5 @@
+*See also: [brief.md](brief.md) for project scope, [product-goals.md](product-goals.md) for strategic objectives*
+
 # User Personas
 
 UXcaptain serves B2B companies conducting video and audio user research, with personas tailored to Spain's digital-savvy market emphasizing personal relationships, hybrid digital-physical strategies, and sectors like tech, telecom, e-commerce, and tourism.
@@ -11,13 +13,15 @@ UXcaptain serves B2B companies conducting video and audio user research, with pe
 **Role:** Senior UX Researcher at a Madrid-based agency like Creative Navy or Crater, managing user testing for software and fintech clients.  
 **Company:** Mid-sized digital agency (11-50 employees), focused on UX/UI for B2B SaaS.  
 
-**Goals:** 
+**Goals:**
+
 - Recruit participants quickly for screen/audio recordings
 - Analyze insights via transcription microservices  
 - Ensure GDPR compliance for Spanish users
 - Deliver actionable insights to clients within tight deadlines
 
-**Pain Points:** 
+**Pain Points:**
+
 - **Participant recruitment** (mentioned by 25+ survey respondents)
 - Time-consuming manual recruitment process
 - Need for cost-effective tools amid €1,000+ project budgets
@@ -37,13 +41,15 @@ UXcaptain serves B2B companies conducting video and audio user research, with pe
 **Role:** Product Manager at a Valencia e-commerce company (e.g., similar to Inditex suppliers), optimizing B2B platforms with €60B+ market revenue.  
 **Company:** SME in consumer electronics or clothing, adopting AI for procurement.  
 
-**Goals:** 
+**Goals:**
+
 - Validate user flows via video sessions
 - Extract insights for mobile-first experiences  
 - Scale cross-border testing in Northern/Eastern Spain
 - Balance rapid development cycles with user validation
 
-**Pain Points:** 
+**Pain Points:**
+
 - **Existing tools are very expensive** (mentioned by 10+ respondents)
 - **Time it takes to interview users** (mentioned by 15+ respondents)
 - **Development cycles are very fast and there's no time to collect feedback**
@@ -63,13 +69,15 @@ UXcaptain serves B2B companies conducting video and audio user research, with pe
 **Role:** Customer Experience Director at a firm like Telefónica, overseeing B2B digital transformation in Barcelona.  
 **Company:** Large corporation with rigid hierarchies, investing in tourism/energy apps.  
 
-**Goals:** 
+**Goals:**
+
 - Conduct large-scale participant studies
 - Leverage insights microservice for analytics
 - Build trust through personalized CX
 - Meet compliance and security requirements for enterprise clients
 
-**Pain Points:** 
+**Pain Points:**
+
 - **Can't find a tool that allows me to collect qualitative feedback effectively**
 - **Recruiting participants** at scale
 - **Extracting and synthesizing insights RELIABLY, without stopping at the first 4 or 5**
@@ -90,13 +98,15 @@ UXcaptain serves B2B companies conducting video and audio user research, with pe
 **Role:** Founder/CTO of a Barcelona fintech startup, handling agile UX research.  
 **Company:** Early-stage with VITE/React frontend, outsourcing transcription via message brokers.  
 
-**Goals:** 
+**Goals:**
+
 - Rapid prototype testing with local panels
 - Affordable incentives for user participation
 - Quick insights for investor pitches
 - **No budget for these analyses in my company**
 
-**Pain Points:** 
+**Pain Points:**
+
 - **Limited budget vs. €3,000+ agency fees**
 - **No budget for these analyses in my company**
 - **Development cycles are very fast and there's no time to collect feedback**
@@ -107,4 +117,3 @@ UXcaptain serves B2B companies conducting video and audio user research, with pe
 **Behaviors:** Active on YouTube/LinkedIn for B2B personas; experiments with crowd-testing tools; values GDPR-compliant platforms like PlaybookUX.  
 
 **Quote:** "As a startup, I need all-in-one: recording, transcription complications."
-

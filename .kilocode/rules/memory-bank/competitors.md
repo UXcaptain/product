@@ -1,3 +1,4 @@
+*See also: [research-summary.md](research-summary.md) for market validation, [personas.md](personas.md) for user insights*
 **vs. UserTesting.com:**
 - Focus on external, unbiased participants (vs. platform's own pool)
 - AI-powered insights (vs. manual analysis)
