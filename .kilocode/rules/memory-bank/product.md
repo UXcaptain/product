@@ -13,6 +13,8 @@ UXcaptain exists to solve the critical gap in user research for UX and product t
 - Extract actionable insights from user behavior patterns
 - Scale user research efforts without proportional cost increases
 
+The deliverable is a approximately 15 minute video of participants screen & audio recording while completing customer-defined tasks - (eg: Try to create an account on <company's> website, find a product on X site under the price of 50€)
+
 ## Problems It Solves
 
 1. **High Cost of Traditional User Research**: Traditional in-person usability testing requires dedicated facilities, equipment, and significant staff time
@@ -41,4 +43,3 @@ UXcaptain exists to solve the critical gap in user research for UX and product t
 - Ad-hoc analysis creation
 - Participant participation
 - Ability for customers to invite participants
-
