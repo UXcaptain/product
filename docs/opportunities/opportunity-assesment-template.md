@@ -1,6 +1,3 @@
-[Initiative Codename] – Opportunity Assessment (Example)
-This is a dummy example. When you start a real initiative, copy this file and replace all content with your own.
-
 ## Objective
 
 [What outcome are we trying to achieve and why now?]
