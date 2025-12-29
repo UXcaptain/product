@@ -1,1 +1,0 @@
-Product repo focuses on specs/PRDs. Implementation architecture lives in code repos.
