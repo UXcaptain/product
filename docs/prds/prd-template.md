@@ -11,21 +11,23 @@ Why: [Primary business/user value]
 When: [Target timeline]  
 Success: [Top outcome metric + target/date]
 
-Context: This PRD builds on [opportunity-assessment.md] which validated the problem and solution approach.
+Context: This PRD builds on [opportunity-assessment.md], which validated the problem and solution approach.
 
 ## 2. Problem Statement
 
 ### 2.1 The Problem
 
-**Current State:** [What's happening now that's problematic]  
-**Impact:** [Who is affected and how severely]  
+**Current State:** [What's happening now that's problematic]
+
+**Impact:** [Who is affected and how severely]
+
 **Evidence:** [Data, research, or feedback supporting this problem]
 
 **Job Story:**
 "When I [situation], I want to [motivation], so I can [outcome]."
 
-**Why it exists:**
-This feature exists to improve [business metric] by accomplishing [user persona goal] by influencing [user behauvior] for [persona]
+**Why It Exists:**
+This feature exists to improve [business metric] by accomplishing [user persona goal] through influencing [user behavior] for [persona].
 
 ### 2.2 Target Users
 
@@ -55,257 +57,161 @@ Key Metrics:
 
 Timeline for Measurement: [When we'll evaluate success]
 
-Guardrails:
-
 ## 4. Solution Overview
 
 ### 4.1 Proposed Solution
 
-[Describe the solution at a conceptual level - avoid detailed specifications]
+[Describe the solution at a conceptual level—avoid detailed specifications].
 
 Key Principles:
 
-- [Principle 1]
-- [Principle 2]
-- [Principle 3]
+- **[Principle 1]:** [How it aligns with user needs or business goals]
+- **[Principle 2]:** [E.g., "Simplify workflows," "Ensure scalability"]
+- **[Principle 3]:** [E.g., "Focus on speed," "Improve accessibility"]
 
 ### 4.2 Key User Flows
 
-Main paths users will take
-
 #### Flow 1: [Primary Flow Name]
 
-- User [action/trigger]
-- System [response]
-- User [next action]
-- System [outcome]
-- User achieves [desired outcome]
+- User: [action/trigger]
+- System: [response]
+- User: [next action]
+- System: [outcome]
+- Outcome: [User achieves desired goal]
 
-#### Flow 2: [Secondary Flow Name] [Similar step-by-step breakdown]
+#### Flow 2: [Secondary Flow Name]
 
-#### Flow 3: [Edge Case Flow] [How edge cases are handled]
+[Similar structure]
 
-### 4.3 Core Requirements
+#### Edge Case Flow
 
-Must Have (P0):
+[How edge cases are handled]
 
-- [Requirement 1]
+## 5. High-Level Requirements
 
-  Description: [What it does]
+### Must Have (P0)
 
-  Acceptance Criteria:
-  - Given [context], When [action], Then [expected outcome]
-  - Given [context], When [action], Then [expected outcome]
+**Requirement 1:** [What the feature must do to be functional]
 
-  Dependencies: [What's needed]
+Description: [Briefly explain its purpose]
 
-- [Requirement 2]
+Acceptance Criteria (aligned with user flows, not JIRA tasks):
 
-  [Similar structure]
+- Given [context], when [action], then [expected outcome].
 
-Should Have (P1):
+### Should Have (P1)
 
-- [Requirement 3]
+**Requirement 2:** [Nice-to-have feature that enhances value]
 
-  [Similar structure]
+Description: [Explain its purpose]
 
-Could Have (P2):
+Acceptance Criteria (e.g., "Users can preview data before importing").
 
-- [Requirement 4]
+### Could Have (P2)
 
-  [Nice-to-have, deferrable]
+**Requirement 3:** [Deferrable, low-priority enhancement]
 
-## 5. Detailed Features & Acceptance Criteria
-
-### Feature 1: [Feature Name]
-
-Description: [What this feature does and why]
-
-User Story: "As a [user], I want [capability], so that [benefit]"
-
-Acceptance Criteria:
-
-- ✅ AC1: Given [precondition], When [action], Then [expected result]
-- ✅ AC2: Given [precondition], When [action], Then [expected result]
-- ✅ AC3: [Edge case handling]
-
-Technical Requirements:
-
-- [Technical constraint 1]
-- [Technical constraint 2]
-
-Dependencies:
-
-- [Internal dependency]
-- [External dependency]
-
-Success Metrics:
-
-- [Metric name]: [How to measure]
-
-### Feature 2: [Feature Name]
-
-[Similar structure for each feature]
+Description: [Why it's valuable but not critical].
 
 ## 6. Scope & Constraints
 
-### 6.1 In Scope (This Version)
+### 6.1 In Scope
 
 - [Feature/component 1]
 - [Feature/component 2]
-- [Feature/component 3]
 
 ### 6.2 Out of Scope (Explicitly NOT Doing)
 
-- [Feature 1]: [Why not - technical/business/priority reason]
-- [Feature 2]: [Why not]
-- [Feature 3]: [Why not]
+- **[Feature 1]:** [Reason, e.g., "Too complex for this release"]
+- **[Feature 2]:** [Reason, e.g., "Outside business goals"]
 
 ### 6.3 Future Considerations
 
-- [Feature that may be added later]: [Conditions for adding]
-- [Enhancement]: [When to consider]
-
+- **[Feature that may be added later]:** [Conditions or triggers for future implementation]
 
 ## 7. User Experience & Interface Requirements
 
-- [Principle 1]: [How it applies]
-- [Principle 2]: [How it applies]
+**Principle:** [How the feature should feel to users (e.g., "Fast, intuitive, minimal friction")]
 
+**Design Notes:** [Reference wireframes/mockups in Appendix]
 
 ## 8. Technical Specifications
 
-### 8.2 Dependencies & Requirements
+**Overview:** This section is intentionally brief and high-level. Specific technical requirements belong in JIRA tickets or separate engineering documentation.
 
-- [Security requirement 1]
-- [Security requirement 2]
-- [Compliance requirement 1]
+Key Dependencies:
 
+- [Internal tool/library]
+- [External API/service]
 
+## 9. Risks & Mitigation
 
-
-
-### 9.2 Key Risks & Mitigation
-
-#### Risk 1: [Risk Description]
-
-Probability: [High/Med/Low]  
-Impact: [High/Med/Low]  
-Mitigation: [How we'll address it]  
-Contingency: [Backup plan]
-
-#### Risk 2: [Risk Description] [Similar structure]
+| Risk | Probability | Impact | Mitigation |
+|------|-------------|--------|------------|
+| [Risk 1, e.g., "Data parsing errors"] | High | Medium | [Solution, e.g., "Implement fallback validation logic"] |
 
 ## 10. Implementation Plan
 
-### 10.1 High-Level Timeline
+**Overview:** This section outlines the sequence of work but does not list JIRA tickets.
 
-#### Phase 1: [Phase Name] - [Timeframe]
+### High-Level Timeline
 
-- [Milestone 1]
-- [Milestone 2]
-- [Deliverable]
+**Phase 1:** [Research & Design] – [Timeframe]
 
-#### Phase 2: [Phase Name] - [Timeframe]
+- Milestone: Finalize user flows and wireframes.
 
-- [Milestone 1]
-- [Milestone 2]
-- [Deliverable]
+**Phase 2:** [Development] – [Timeframe]
 
-#### Phase 3: [Phase Name] - [Timeframe]
+- Milestone: Complete core functionality (P0 features).
 
-- [Milestone 1]
-- [Milestone 2]
-- [Deliverable]
+**Phase 3:** [Testing & Launch] – [Timeframe]
 
-### 10.3 Go-to-Market Plan
+### Go-to-Market Plan
 
-Launch Strategy: [How we'll roll out]
-
-- [Beta/Alpha testing]
-- [Phased rollout]
-- [Full launch]
-
-Marketing/Communication: [How users will learn about it]  
-Support Plan: [Customer support considerations]  
-Training: [Training requirements]
+- **Strategy:** [e.g., "Roll out in Beta to a subset of users"]
+- **Communication:** [How the feature will be announced]
+- **Support:** [Customer support plan]
 
 ## 12. Post-Launch Plan
 
-### 12.1 Monitoring & Metrics
+**Monitoring Metrics:** [List key metrics from Section 3]
 
-Key Metrics to Track:
-
-- [Metric 1]: [How to measure, dashboard link]
-- [Metric 2]: [How to measure, dashboard link]
-
-Alert Thresholds:
-
-- [Alert condition]: [Action to take]
-
-### 12.2 Iteration Plan
+### Iteration Plan
 
 Feedback Collection: [How we'll gather user feedback]
 
 - [Method 1]
 - [Method 2]
 
-Review Timeline: [When we'll assess and iterate]
-
-- [Review 1]: [Date, focus area]
-- [Review 2]: [Date, focus area]
-
-Success Criteria for Iteration:
-
-- [When to iterate]
-- [When to pivot]
-- [When to kill]
+- **Review 1:** [Date, e.g., "Two weeks after launch"] – Focus on user feedback.
+- **Review 2:** [Date, e.g., "One month post-launch"] – Prioritize P1 features.
 
 ## 13. Open Questions & Decisions Needed
 
-### 13.1 Open Questions
+[List unresolved decisions and owners]
 
-- ❓ [Question 1]: [Owner, decision date]
-- ❓ [Question 2]: [Owner, decision date]
+Example:
 
-### 13.2 Decisions Needed
-
-- [Decision 1]: [Context, options, recommendation]
-- [Decision 2]: [Context, options, recommendation]
+- ❓ "Should we use a third-party API for data parsing?" – Owner: Engineering Lead, Decision Date: [Date]
 
 ## 14. Appendix
 
 ### 14.1 Research & Data
 
-- [Link to user research]
-- [Link to competitive analysis]
-- [Link to data analysis]
+- [Link to user research, competitive analysis, or data]
 
 ### 14.2 Wireframes/Mockups
 
 - [Link to design assets]
-- [Link to prototypes]
 
-### 14.3 Technical Specifications
+### 14.3 Technical Specifications (Optional)
 
-- [Link to API specifications]
-
-### 14.4 Related Documents
-
-- [Link to opportunity-assessment.md]
-- [Link to roadmap.md]
-- [Link to decisions.md]
+- [Link to detailed engineering docs or API specs]
 
 ## 16. Stakeholder Sign-off
 
-- Product Manager: [ ] Reviewed and Approved - [Name, Date]
-- Engineering Lead: [ ] Reviewed and Approved - [Name, Date]
-- Design Lead: [ ] Reviewed and Approved - [Name, Date]
-- Marketing: [ ] Reviewed and Approved - [Name, Date]
+- Product Manager: [ ] Reviewed and Approved – [Name, Date]
+- Engineering Lead: [ ] Reviewed and Approved – [Name, Date]
+- Design Lead: [ ] Reviewed and Approved – [Name, Date]
+- Leadership: [ ] Reviewed and Approved – [Name, Date]
 - Legal/Compliance: [ ] Reviewed and Approved - [Name, Date]
-- Leadership: [ ] Reviewed and Approved - [Name, Date]
-
-Next Steps:
-
-- [Action 1] - [Owner] - [Due Date]
-- [Action 2] - [Owner] - [Due Date]
