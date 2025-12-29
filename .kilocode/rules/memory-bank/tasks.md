@@ -2,13 +2,13 @@
 
 ## P0: Core Workflows
 **Write PRD for [feature]**
-Prompt: "Create PRD for [feature] using template. Reference research-summary.md and product-goals.md"
+Prompt: "Create PRD for [feature] using template. Reference research-summary.md and product-goals.md - Do not generate user stories"
 Output: docs/prds/[feature].md
 Priority: High
 
 **Analyze user research**
-Prompt: "Summarize key findings from docs/user-research/ into research-summary.md. Extract 3-5 insights."
-Output: Update research-summary.md + new insights.md
+Prompt: "Summarize key findings from the indicated file and create a new file - The new file should have a similar name and be located in the same directory as the original input."
+Output: docs/user-research/[directory]/[input].md - Also Update research-summary.md exclusively with relevant information to the product
 Priority: High
 
 **Prioritize roadmap**
