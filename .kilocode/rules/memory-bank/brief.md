@@ -50,19 +50,3 @@ Based on market research with 64 UX professionals, the platform prioritizes:
 - **Moderated Interview Capabilities**: Follow-up conversations with users after analysis
 - **Timestamped Note-Taking**: Ability to save insights with time markers in recordings
 
-# Revenue model
-
-The revenue model has not been finalised yet but here are some ideas based on market research showing 35% of UX professionals spend less than €1,000 annually on UX tools:
-
-### Freemium Strategy
-
-- **Free Tier**: Basic video recording, manual analysis
-- **Professional Tier**: AI insights, limited participant access
-- **Enterprise Tier**: Unlimited access, custom integrations, priority support
-
-### Usage-Based Pricing
-
-- Per-study pricing for occasional users
-- Monthly subscriptions for regular researchers
-- Enterprise contracts for large organizations
-- Revenue sharing with participant recruitment partners
