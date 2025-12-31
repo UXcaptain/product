@@ -2,7 +2,14 @@
 
 # User Personas
 
-*Based on research from 64 UX professionals across startups, scale-ups, corporations, and agencies in Spain (October-November 2025)*
+*Based on research from 64 UX professionals across startups, scale-ups, corporations, and agencies in Spain (October-November 2025), validated against "Estado del UX en España 2021" survey data*
+
+These personas represent the primary market segments identified in our research:
+
+- **Small teams** (2-5 people): 45% of market, our primary target
+- **Geographic focus**: 60% Madrid, 15% Barcelona (75% combined)
+- **Work patterns**: 75% remote/hybrid workers (40% fully remote, 35% hybrid)
+- **Budget reality**: 35% spend <€1,000 annually on UX tools
 
 ## Persona 1: UX Researcher in Tech Agency
 
@@ -14,19 +21,19 @@
 **Goals:**
 
 - Recruit participants quickly for screen/audio recordings
-- Analyze insights via transcription microservices  
-- Ensure GDPR compliance for Spanish users
 - Deliver actionable insights to clients within tight deadlines
+- Ensure GDPR compliance for Spanish users
+- Streamline the entire research process for efficiency
 
 **Pain Points:**
 
-- **Participant recruitment** (mentioned by 25+ survey respondents)
-- Time-consuming manual recruitment process
-- Need for cost-effective tools amid €1,000+ project budgets
-- Integrating with React frontends and Express backends
-- **Extracting and synthesizing insights** (mentioned by 12+ respondents)
+- **User recruitment** (50+ total mentions across studies) - Most expensive and complex process
+- **Time investment** (65+ total mentions across studies) - Analysis takes too long vs fast development cycles
+- **Data processing & analysis** (42+ total mentions across studies) - Difficulty extracting quality insights from raw video data
+- **Budget constraints** - Company spends <€1,000 annually on UX tools (35% of market)
+- **Strong preference for external, unbiased participants** (75% of market preference)
 
-**Behaviors:** Uses LinkedIn and Instagram for networking; values all-in-one platforms like UXtweak for Spain-specific panels; attends Barcelona UX events.  
+**Behaviors:** Uses LinkedIn and Instagram for networking; values all-in-one platforms like UXtweak for Spain-specific panels; attends Barcelona UX events. Works in hybrid model (35% of market) or fully remote (40% of market).  
 
 **Quote:** "I need a tool that handles local recruitment and fast transcriptions to iterate prototypes."
 
@@ -48,10 +55,10 @@
 
 **Pain Points:**
 
-- **Existing tools are very expensive** (mentioned by 10+ respondents)
-- **Time it takes to interview users** (mentioned by 15+ respondents)
-- **Development cycles are very fast and there's no time to collect feedback**
-- Balancing digital trends with relationship-driven decisions
+- **Tool limitations & costs** (50+ total mentions across studies) - Existing tools too expensive for SME budgets
+- **Time investment** (65+ total mentions across studies) - Fast development cycles don't allow time for proper research
+- **Development cycles are very fast** - Little time to collect user feedback between iterations
+- **Budget reality** - Company spends <€1,000 annually on UX tools (35% of market)
 - Fragmented tools lacking integration
 
 **Behaviors:** Prefers hybrid inbound strategies; searches "plataformas user testing España"; participates in loyalty programs and events.  
@@ -65,23 +72,22 @@
 **Name:** Elena Ruiz  
 **Age:** 45  
 **Role:** Customer Experience Director at a firm like Telefónica, overseeing B2B digital transformation in Barcelona.  
-**Company:** Large corporation with rigid hierarchies, investing in tourism/energy apps.  
+**Company:** Large corporation with 35% of market working in larger teams (>5 people), investing in tourism/energy apps.  
 
 **Goals:**
 
 - Conduct large-scale participant studies
-- Leverage insights microservice for analytics
-- Build trust through personalized CX
+- Extract actionable insights for enterprise decision-making
+- Build trust through personalized customer experiences
 - Meet compliance and security requirements for enterprise clients
 
 **Pain Points:**
 
-- **Can't find a tool that allows me to collect qualitative feedback effectively**
-- **Recruiting participants** at scale
-- **Extracting and synthesizing insights RELIABLY, without stopping at the first 4 or 5**
+- **User recruitment** (50+ total mentions across studies) - Most frequently cited challenge
+- **Data processing & analysis** (42+ total mentions across studies) - Difficulty going beyond surface-level observations
+- **Time investment** (65+ total mentions across studies) - Long analysis time vs fast development cycles
 - Slow top-down approvals for new tools
 - Need for robust, scalable integrations
-- Competing with UserTesting alternatives
 
 **Behaviors:** Networks at industry expos; prioritizes English/Spanish bilingual tools; focuses on data-driven SEO content.  
 
@@ -94,23 +100,22 @@
 **Name:** Carlos Mendoza  
 **Age:** 28  
 **Role:** Founder/CTO of a Barcelona fintech startup, handling agile UX research.  
-**Company:** Early-stage with VITE/React frontend, outsourcing transcription via message brokers.  
+**Company:** Early-stage startup focused on financial technology solutions.  
 
 **Goals:**
 
 - Rapid prototype testing with local panels
 - Affordable incentives for user participation
 - Quick insights for investor pitches
-- **No budget for these analyses in my company**
+- Scale user research without breaking startup budget
 
 **Pain Points:**
 
 - **Limited budget vs. €3,000+ agency fees**
-- **No budget for these analyses in my company**
 - **Development cycles are very fast and there's no time to collect feedback**
 - Recruiting diverse users (e.g., 150K+ Spain panel)
 - EU data hosting requirements
-- **Existing tools are very expensive**
+- **Tool limitations & costs** (50+ total mentions across studies) - Existing tools too expensive
 
 **Behaviors:** Active on YouTube/LinkedIn for B2B personas; experiments with crowd-testing tools; values GDPR-compliant platforms like PlaybookUX.  
 

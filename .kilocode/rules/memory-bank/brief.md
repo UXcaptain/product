@@ -1,21 +1,68 @@
-*See also: [personas.md](personas.md) for detailed user profiles, [product-goals.md](product-goals.md) for strategic objectives*
-# Project Brief
+*See also: [personas.md](personas.md) for detailed user profiles, [research-summary.md](research-summary.md) for market validation, [context.md](context.md) for current project status*
 
-UXcaptain is a video-based user research platform designed for UX and product teams to record, analyze, and extract actionable insights from participant interactions with prototypes and products.
+# Project brief
 
-## Project Scope
+## What is the project
+
+UXcaptain is a video-based user research platform designed for UX, marketing and product teams to conduct remote usability testing with video recording, automate transcription and analysis of user sessions, and extract actionable insights from participant interactions with prototypes and products.
+
+The platform addresses critical gaps in traditional user research by providing:
+
+- Automated participant recruitment and management  (not yet implemented)
+- Remote video-based testing capabilities  
+- AI-powered transcription and insight extraction (not yet implemented)
+- Comprehensive analytics and reporting  (not yet implemented)
 
 ### Primary Users
 
-- UX researchers, product managers, and designers looking to understand how users perceive their products, designs, and experiences
+- **UX researchers** conducting qualitative user studies
+- **Product managers** validating user flows and experiences
+- **Design teams** testing prototypes and interfaces
+- **Marketing teams** understanding customer behavior patterns
+- **CX professionals** measuring customer experience quality
 
-### Core Jobs
+## Why This Project Exists
 
-- Running unmoderated sessions efficiently
-- Understanding where users struggle in digital products
-- Turning sessions into evidence for strategy, product, marketing and UX decisions
-- Scaling user research without proportional cost increases
+Traditional user research methods face critical barriers that prevent teams from conducting effective, scalable user studies. Organizations struggle with expensive participant recruitment, time-intensive manual analysis, and fragmented tool ecosystems that increase costs without improving outcomes.
 
-## Success Definition
+UXcaptain eliminates these barriers by providing an all-in-one platform that automates manual processes, reduces costs, and enables teams to conduct regular user research at scale.
 
-UXcaptain succeeds when UX and product teams can base every decision on real user behavior instead of assumptions, making video-based user research as easy and scalable as sending a survey.
+## Deliverable
+
+The deliverable is an approximately 15 minute duration video of a participant's screen & audio recording while completing customer-defined tasks - (eg: Try to create an account on <company's> website, find a product on X site under the price of 50€)
+
+## Problems It Solves
+
+1. **High Cost of Traditional User Research**: Traditional in-person usability testing requires dedicated facilities, equipment, and significant staff time
+2. **Limited Participant Recruitment**: Finding and managing participants for research studies is time-consuming and expensive
+3. **Manual Analysis Bottleneck**: Video analysis and insight extraction is labor-intensive and subjective
+4. **Fragmented Research Workflow**: Teams struggle to manage studies, participants, recordings, and insights in one place
+5. **Difficulty Scaling Research**: Small teams can't afford the overhead of traditional research methods
+
+## Core Features
+
+Based on market research with 64 UX professionals, the platform prioritizes:
+
+- **AI-Generated Insight Summaries**: Automated synthesis of key findings from video sessions
+- **Automated Participant Recruitment**: Platform handles user recruitment automatically with access to external, unbiased participants
+- **Comprehensive Analytics Dashboard**: Task success rate, time-on-task metrics, and quantitative analysis of qualitative data
+- **Question Generation Assistance**: AI-powered question suggestions based on product analysis
+- **Moderated Interview Capabilities**: Follow-up conversations with users after analysis
+- **Timestamped Note-Taking**: Ability to save insights with time markers in recordings
+
+# Revenue model
+
+The revenue model has not been finalised yet but here are some ideas based on market research showing 35% of UX professionals spend less than €1,000 annually on UX tools:
+
+### Freemium Strategy
+
+- **Free Tier**: Basic video recording, manual analysis
+- **Professional Tier**: AI insights, limited participant access
+- **Enterprise Tier**: Unlimited access, custom integrations, priority support
+
+### Usage-Based Pricing
+
+- Per-study pricing for occasional users
+- Monthly subscriptions for regular researchers
+- Enterprise contracts for large organizations
+- Revenue sharing with participant recruitment partners
