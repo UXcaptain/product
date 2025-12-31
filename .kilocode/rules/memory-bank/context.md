@@ -12,6 +12,10 @@
 - ✅ 75% prefer external users to avoid bias - key competitive advantage
 - ✅ Strong willingness to pay for cost-effective solution
 
+**Commercial scope notes (pricing/tiers)**:
+- **Participant pool sequencing**: access to an external participant pool is **not available initially (MVP)** and will be introduced later.
+- **Enterprise out of scope (early plans)**: enterprise-specific needs (SSO, complex procurement, bespoke contracts) are explicitly **out of scope** for early pricing/plans.
+
 ## Project Status: Product Specification & Documentation Phase
 
 **Completed**:

@@ -50,3 +50,10 @@ Based on market research with 64 UX professionals, the platform prioritizes:
 - **Moderated Interview Capabilities**: Follow-up conversations with users after analysis
 - **Timestamped Note-Taking**: Ability to save insights with time markers in recordings
 
+# Revenue model (draft)
+
+The revenue model is evolving, but pricing is expected to follow a tiered subscription model aligned with Spanish market budgets (notably: 35% of UX professionals spend <€1,000/year on UX tools).
+
+**Important sequencing note:** access to an external participant pool is **not available initially** (MVP) and will be introduced later. Early plans differentiate tiers primarily via transcription + AI analysis capabilities and support SLAs.
+
+**Targeting note:** enterprise-specific needs (SSO, complex procurement, bespoke contracts) are explicitly **out of scope** for early pricing/plans.

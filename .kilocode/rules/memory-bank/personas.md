@@ -11,6 +11,8 @@ These personas represent the primary market segments identified in our research:
 - **Work patterns**: 75% remote/hybrid workers (40% fully remote, 35% hybrid)
 - **Budget reality**: 35% spend <€1,000 annually on UX tools
 
+**Scope note (early plans):** While the enterprise persona below is useful for understanding the broader market, **enterprise-focused needs are out of scope for early pricing/plans** (e.g., SSO, complex procurement, bespoke contracts). Early plans prioritize small teams and self-serve adoption.
+
 ## Persona 1: UX Researcher in Tech Agency
 
 **Name:** Marta López  
