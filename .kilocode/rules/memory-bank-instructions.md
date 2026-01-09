@@ -15,23 +15,19 @@ The Memory Bank consists of core files and optional context files, all in Markdo
    - Created at project start if it doesn't exist
    - Defines core requirements and goals
    - Source of truth for project scope
-
-2. `product.md`
    - Why this project exists
    - Problems it solves
    - How it should work
    - User experience goals
 
-3. `context.md`
+2. `context.md`
    This file should be short and factual, not creative or speculative.
    - Current work focus
    - Recent changes
    - Next steps
 
-4. `personas.md`
-   - User personas and their needs
 
-5. `research-summary.md`
+3. `research-summary.md`
    - Key insights from user research
    - Pain points and opportunities
    - Data-driven recommendations
