@@ -13,8 +13,10 @@
 - ✅ Strong willingness to pay for cost-effective solution
 
 **Commercial scope notes (pricing/tiers)**:
-- **Participant pool sequencing**: access to an external participant pool is **not available initially (MVP)** and will be introduced later.
+- **Tier structure**: 3-tier model post-beta - Free (€0), Starter (€49), Pro (€99). Beta tier offered during beta phase.
+- **Participant pool sequencing**: access to an external participant pool is **not available initially (MVP)** and will be introduced later with monthly participant allowance (5 for Starter, 15 for Pro).
 - **Enterprise out of scope (early plans)**: enterprise-specific needs (SSO, complex procurement, bespoke contracts) are explicitly **out of scope** for early pricing/plans.
+- **Market focus**: Small teams (2-5 people), sub-€1,000 annual budgets (35% of Spanish market), European market (GDPR compliance).
 
 ## Project Status: Product Specification & Documentation Phase
 
